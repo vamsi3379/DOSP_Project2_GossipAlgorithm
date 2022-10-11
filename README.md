@@ -1,6 +1,6 @@
 # DOSP_Project2_GossipAlgorithm
 ## Project 2 : Gossip Algorithm in Erlang
-For computation and communication among groups we make use of gossip algorithms and push sum algorithm over various topologies. After various experiments our end goal is to find the convergence among these through simulations that are dependent on actors. The algorithms involved in this project are Gossip and push sum. Topologies used for testing are 2D grid, full, line and impartial 3D.
+For computation and communication among groups we make use of gossip algorithms and push sum algorithm over various topologies. After various experiments ou r end goal is to find the convergence among these through simulations that are dependent on actors. The algorithms involved in this project are Gossip and push sum. Topologies used for testing are 2D grid, full, line and impartial 3D.
 
 ### Group Members
 | Names | UF-ID |
